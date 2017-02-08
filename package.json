@@ -1,0 +1,11 @@
+{
+  "name": "tinymce-demo",
+  "version": "1.0.0",
+  "description": "Demo to showcase the capabilities of tinyMCE rich text editor software plugin",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naresh Pentapati",
+  "license": "ISC"
+}
