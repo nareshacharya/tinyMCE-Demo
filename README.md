@@ -1,8 +1,6 @@
-TinyMCE - The JavaScript Rich Text editor
+Building tinyMCE-Demo (The JavaScript Rich Text editor)
 ==========================================
 
-Building tinyMCE-Demo
------------------
 Install [Node.js](https://nodejs.org/en/) on your system.
 Clone this repository on your system
 ```
